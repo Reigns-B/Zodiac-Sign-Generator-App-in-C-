@@ -38,6 +38,10 @@ This project focuses on building confidence in:
 - Compiler   : g++ (GNU Compiler Collection)
 - Environment: Console / Terminal
 
+Ther output:
+
+<img width="1197" height="430" alt="image" src="https://github.com/user-attachments/assets/82c7f177-29f7-43cd-9b5e-1a3ec488287c" />
+
 ------------------------------------------------------------
 ⭐ If you like it
 ------------------------------------------------------------
